@@ -1,4 +1,4 @@
-
+#contacts updating process
 
 #error free auto signup download code with urban vpn connected
 pkgs<-rownames(installed.packages())
