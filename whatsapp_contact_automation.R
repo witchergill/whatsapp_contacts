@@ -36,7 +36,7 @@ assign(x="remDr",value = rd$client,envir = .GlobalEnv)
 
 remDr$navigate("https://web.whatsapp.com/")
 
-for(j in 1:120){
+for(j in 1:90){
   cat('time left : ',120-j,"\n")
   Sys.sleep(1)
 }
